@@ -1,0 +1,45 @@
+[
+        "nationName": "Uganda",
+        "leaderName": "H.E. Yoweri Kaguta Museveni",
+        "adjective": ["Ugandan"],
+        "startBias": ["Avoid [Tundra]","Avoid [Snow]",["Grassland"],["Plains"]],
+        "preferredVictoryType": "Cultural",
+        
+        "startIntroPartOne": "Your Excellency Y.K. Museveni, after leading and winning a six-year-long guerilla campaign against democratically-opposing forces to claim power in Uganda, your strong leadership oversaw a post-Amin Uganda into a fast developing democracy excelling in education, increasing living standards and peace maintained throughout the nation! With Uganda's past leadership behind her, you'll need to garner support from the ready population in order to build one unitary state which is highly developed."
+        "startIntroPartTwo": "Can you your excellency, fight against the modern problems your nation faces? High rate of poverty, foreign domination in trade and anti-government movements in the interior. But with a culturally diverse people not to mention growing population, can you use this to succeed or will time catch up with you? For the Lord has put you here to serve His people. Blessings be upon you from the Most High God!"
+        
+        "declaringWar": "You are threat to peace in the region. Therefore, actions must be taken!",
+		"attacked": "I didn't win with guerilla tactics just to be defeated by the likes of heathen like you!",
+		"defeated": "The Almighty God has given you power! Blessings be upon you, as His mercy is unto us.",
+		"introduction": "Greetings comrade. Let us hope for mutual development and co-operation.",
+		"tradeRequest": "How does this sound? Does it suit your needs as it does to ours?",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
