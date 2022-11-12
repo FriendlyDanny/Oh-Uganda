@@ -5,14 +5,29 @@
         "startBias": ["Avoid [Tundra]","Avoid [Snow]",["Grassland"],["Plains"]],
         "preferredVictoryType": "Cultural",
         
-        "startIntroPartOne": "Your Excellency Y.K. Museveni, after leading and winning a six-year-long guerilla campaign against democratically-opposing forces to claim power in Uganda, your strong leadership oversaw a post-Amin Uganda into a fast developing democracy excelling in education, increasing living standards and peace maintained throughout the nation! With Uganda's past leadership behind her, you'll need to garner support from the ready population in order to build one unitary state which is highly developed."
+        "startIntroPartOne": "Your Excellency Y.K. Museveni, after leading and winning a six-year-long guerilla campaign against democracy-opposing forces to claim power in Uganda, your strong leadership oversaw a post-Amin Uganda into a fast developing democracy excelling in education, increasing living standards and peace maintained throughout the nation! With Uganda's past leadership behind her, you'll need to garner support from the ready population in order to build one unitary state which is highly developed."
         "startIntroPartTwo": "Can you your excellency, fight against the modern problems your nation faces? High rate of poverty, foreign domination in trade and anti-government movements in the interior. But with a culturally diverse people not to mention growing population, can you use this to succeed or will time catch up with you? For the Lord has put you here to serve His people. Blessings be upon you from the Most High God!"
         
         "declaringWar": "You are threat to peace in the region. Therefore, actions must be taken!",
 		"attacked": "I didn't win a guerilla war just to be defeated by the likes of heathen like you!",
 		"defeated": "The Almighty God has given you power! Blessings be upon you, as His mercy is unto us.",
 		"introduction": "Greetings comrade. Let us hope for mutual development and co-operation.",
-		"tradeRequest": "How does this sound? Does it suit your needs as it does to ours?",
+
+                "neutralHello": "Greetings.",
+		"hateHello": "Shameless coward! What do you want now?"
+
+                "tradeRequest": "How does this sound? Does it suit your needs as it does to ours?",
+                
+                "outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Pearl of Africa",
+		"uniques": ["[+22]% Culture per [2] Population in all cities","[18]% Culture is converted into Happiness",],//Cultural Economy,Joyfully traditional,
+		"cities": ["Entebbe","Kampala","Jinja","Hoima","Mengo","Gulu","Soroti","Tororo","Lira","Bundibugyo",
+			"Kabaale","Mbale","Ibanda","Pakwach","West Nile","Victoria Nile","Elegu","Malaba","Mutukula","Busia",
+			"Nimule","Moroto","Napak","Nabilatuk","Kumi","Kibaale","Kasese","Mubende","Kisoro","Rubirizi",
+			"Kitgum","","Masindi","Kabarole","Mpigi","Rubanda","Isingiro","Mbarara","Ngora","Bushenyi-Ishaka"],
+        "spyNames": ["Jim Katugugu Muhwezi", "Henry Tumukunde", "Elly Kayanja", "Amos Mukumbi", "Ronie Balya", "Kaka Bagyenda", "Charles Oluka", "Peasant farmer not contributing anything to the economy", "Muhoozi Kainerugaba", "Apollo Milton Obote"]
 
 
 
