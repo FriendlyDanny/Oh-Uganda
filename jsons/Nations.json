@@ -2,7 +2,7 @@
         "nationName": "Uganda",
         "leaderName": "H.E. Yoweri Kaguta Museveni",
         "adjective": ["Ugandan"],
-        "startBias": ["Avoid [Tundra]",["Grassland"],["Plains"]],
+        "startBias": [["Grassland"],["Plains"]],//Grassland referring to the tropical grassland of Uganda and Plains rreferring to the High Plains of Uganda
         "preferredVictoryType": "Cultural",
         
         "startIntroPartOne": "Your Excellency Y.K. Museveni, after leading and winning a six-year-long guerilla campaign against democracy-opposing forces to claim power in Uganda, your strong leadership oversaw a post-Amin Uganda into a fast developing democracy excelling in education, increasing living standards and peace maintained throughout the nation! With Uganda's past leadership behind her, you'll need to garner support from the ready population in order to build one unitary state which is highly developed."
