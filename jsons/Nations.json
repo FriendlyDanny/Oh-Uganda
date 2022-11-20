@@ -2,7 +2,7 @@
         "nationName": "Uganda",
         "leaderName": "H.E. Yoweri Kaguta Museveni",
         "adjective": ["Ugandan"],
-        "startBias": ["Avoid [Tundra]","Avoid [Snow]",["Grassland"],["Plains"]],
+        "startBias": ["Avoid [Tundra]",["Grassland"],["Plains"]],
         "preferredVictoryType": "Cultural",
         
         "startIntroPartOne": "Your Excellency Y.K. Museveni, after leading and winning a six-year-long guerilla campaign against democracy-opposing forces to claim power in Uganda, your strong leadership oversaw a post-Amin Uganda into a fast developing democracy excelling in education, increasing living standards and peace maintained throughout the nation! With Uganda's past leadership behind her, you'll need to garner support from the ready population in order to build one unitary state which is highly developed."
@@ -27,7 +27,7 @@
 			"Kabaale","Mbale","Ibanda","Pakwach","West Nile","Victoria Nile","Elegu","Malaba","Mutukula","Busia",
 			"Nimule","Moroto","Napak","Nabilatuk","Kumi","Kibaale","Kasese","Mubende","Kisoro","Rubirizi",
 			"Kitgum","","Masindi","Kabarole","Mpigi","Rubanda","Isingiro","Mbarara","Ngora","Bushenyi-Ishaka"],
-        "spyNames": ["Jim Katugugu Muhwezi", "Henry Tumukunde", "Elly Kayanja", "Amos Mukumbi", "Ronie Balya", "Kaka Bagyenda", "Charles Oluka", "Peasant farmer not contributing anything to the economy", "Muhoozi Kainerugaba", "Apollo Milton Obote"]
+        "spyNames": ["Jim Katugugu Muhwezi", "Henry Tumukunde", "Elly Kayanja", "Amos Mukumbi", "Ronie Balya", "Kaka Bagyenda", "Charles Oluka", "Peasant farmer not contributing anything to the economy", "Muhoozi Kainerugaba", "Paulo Muwanga"]
 
 
 
